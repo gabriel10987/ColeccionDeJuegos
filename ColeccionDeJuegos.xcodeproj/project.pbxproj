@@ -14,6 +14,7 @@
 		E2BF7D612CADF0A70049620F /* ColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E2BF7D5F2CADF0A70049620F /* ColeccionDeJuegos.xcdatamodeld */; };
 		E2BF7D632CADF0A80049620F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E2BF7D622CADF0A80049620F /* Assets.xcassets */; };
 		E2BF7D662CADF0A80049620F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2BF7D642CADF0A80049620F /* LaunchScreen.storyboard */; };
+		E2BF7D6E2CADFCA60049620F /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2BF7D6D2CADFCA60049620F /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E2BF7D622CADF0A80049620F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E2BF7D652CADF0A80049620F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E2BF7D672CADF0A80049620F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E2BF7D6D2CADFCA60049620F /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				E2BF7D642CADF0A80049620F /* LaunchScreen.storyboard */,
 				E2BF7D672CADF0A80049620F /* Info.plist */,
 				E2BF7D5F2CADF0A70049620F /* ColeccionDeJuegos.xcdatamodeld */,
+				E2BF7D6D2CADFCA60049620F /* JuegosViewController.swift */,
 			);
 			path = ColeccionDeJuegos;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E2BF7D6E2CADFCA60049620F /* JuegosViewController.swift in Sources */,
 				E2BF7D5B2CADF0A70049620F /* ViewController.swift in Sources */,
 				E2BF7D572CADF0A70049620F /* AppDelegate.swift in Sources */,
 				E2BF7D592CADF0A70049620F /* SceneDelegate.swift in Sources */,
